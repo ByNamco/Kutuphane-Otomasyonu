@@ -1,0 +1,293 @@
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\bin\Debug\Kutuphane_367MustafaCelik.exe
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\bin\Debug\Kutuphane_367MustafaCelik.pdb
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmBagisListesi.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmKitapListesi.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmKutuphaneListesi.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmParametreDil.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmParametreGorev.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmParametreKitapTur.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmAnasayfa.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmBagisYapan.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmCezaliSec.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmGiris.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmHakkimizda.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmKitapAlmaIslem.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmKitapIslem.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmKitapIstatistigi.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmKitapSec.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmKitapVermeIslem.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmKullaniciEkle.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmKutuphaneIslem.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmKutuphaneIstatistik.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmParametreKitapYeri.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmParametreMeslek.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmParametreOgrenimDurum.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmParametreYeniYil.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmPersonelIslem.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmEmanetTeslimHatirlatma.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmPersonelListesi.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmUyeIslem.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmUyeIstatistik.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmUyeListesi.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmUyeSec.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmYayineviIslem.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmYayineviListesi.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmYazarIslem.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.frmYazarListesi.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.Properties.Resources.resources
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.exe
+C:\Users\musta\Desktop\Belgelerim\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.pdb
+C:\Users\hp\Desktop\VeriTabanıProje\Kutuphane_367MustafaCelik\Backup\Kutuphane_367MustafaCelik\obj\Debug\Kutuphane_367MustafaCelik.pdb
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisListesi.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapListesi.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneListesi.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreDil.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreGorev.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapTur.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmAnasayfa.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisYapan.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmCezaliSec.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmGiris.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmHakkimizda.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapAlmaIslem.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIslem.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIstatistigi.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapSec.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapVermeIslem.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKullaniciEkle.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIslem.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIstatistik.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapYeri.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreMeslek.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreOgrenimDurum.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreYeniYil.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelIslem.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmEmanetTeslimHatirlatma.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelListesi.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIslem.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIstatistik.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeListesi.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeSec.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviIslem.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviListesi.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarIslem.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarListesi.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\hp\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csprojResolveAssemblyReference.cache
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisListesi.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapListesi.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneListesi.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreDil.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreGorev.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapTur.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmAnasayfa.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisYapan.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmCezaliSec.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmGiris.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmHakkimizda.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapAlmaIslem.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIslem.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIstatistigi.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapSec.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapVermeIslem.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKullaniciEkle.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIslem.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIstatistik.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapYeri.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreMeslek.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreOgrenimDurum.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreYeniYil.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelIslem.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmEmanetTeslimHatirlatma.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelListesi.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIslem.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIstatistik.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeListesi.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeSec.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviIslem.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviListesi.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarIslem.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarListesi.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.Cache
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csprojResolveAssemblyReference.cache
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisListesi.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapListesi.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneListesi.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreDil.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreGorev.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapTur.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmAnasayfa.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisYapan.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmCezaliSec.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmGiris.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmHakkimizda.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapAlmaIslem.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIslem.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIstatistigi.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapSec.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapVermeIslem.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKullaniciEkle.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIslem.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIstatistik.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapYeri.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreMeslek.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreOgrenimDurum.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreYeniYil.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelIslem.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmEmanetTeslimHatirlatma.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelListesi.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIslem.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIstatistik.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeListesi.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeSec.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviIslem.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviListesi.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarIslem.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarListesi.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+D:\Users\musta\Desktop\Yazılım Mühendisliği Proje\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.Cache
+D:\Users\musta\Desktop\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\Mono.Security.dll
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\Mono.Security.dll
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csprojResolveAssemblyReference.cache
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisListesi.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapListesi.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneListesi.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreDil.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreGorev.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapTur.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmAnasayfa.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisYapan.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmCezaliSec.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmGiris.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmHakkimizda.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapAlmaIslem.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIslem.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIstatistigi.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapSec.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapVermeIslem.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKullaniciEkle.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIslem.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIstatistik.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapYeri.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreMeslek.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreOgrenimDurum.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreYeniYil.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelIslem.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmEmanetTeslimHatirlatma.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelListesi.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIslem.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIstatistik.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeListesi.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeSec.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviIslem.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviListesi.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarIslem.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarListesi.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+D:\Users\musta\Desktop\TEZ MustafaÇelik 201313171048\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.Cache
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\Mono.Security.dll
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csprojResolveAssemblyReference.cache
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisListesi.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapListesi.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneListesi.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreDil.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreGorev.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapTur.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmAnasayfa.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisYapan.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmCezaliSec.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmGiris.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmHakkimizda.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapAlmaIslem.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIslem.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIstatistigi.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapSec.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapVermeIslem.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKullaniciEkle.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIslem.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIstatistik.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapYeri.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreMeslek.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreOgrenimDurum.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreYeniYil.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelIslem.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmEmanetTeslimHatirlatma.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelListesi.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIslem.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIstatistik.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeListesi.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeSec.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviIslem.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviListesi.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarIslem.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarListesi.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.Cache
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+D:\Users\musta\Desktop\TEZ MerveŞişman 201213172058\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.exe
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\KutuphaneOtomasyonu.pdb
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\bin\Debug\Mono.Security.dll
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisListesi.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapListesi.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneListesi.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreDil.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreGorev.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapTur.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmAnasayfa.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmBagisYapan.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmCezaliSec.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmGiris.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmHakkimizda.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapAlmaIslem.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIslem.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapIstatistigi.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapSec.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKitapVermeIslem.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKullaniciEkle.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIslem.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmKutuphaneIstatistik.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreKitapYeri.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreMeslek.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreOgrenimDurum.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmParametreYeniYil.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelIslem.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmEmanetTeslimHatirlatma.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmPersonelListesi.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIslem.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeIstatistik.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeListesi.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmUyeSec.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviIslem.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYayineviListesi.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarIslem.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.frmYazarListesi.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.Properties.Resources.resources
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.GenerateResource.Cache
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.exe
+C:\Users\nazmi\source\repos\KutuphaneOtomasyonu\KutuphaneOtomasyonu\obj\Debug\KutuphaneOtomasyonu.pdb

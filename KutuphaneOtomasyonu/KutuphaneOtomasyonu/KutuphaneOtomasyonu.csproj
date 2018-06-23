@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{622ECCEC-9BCA-4A17-897C-F59DD695FC01}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KutuphaneOtomasyonu</RootNamespace>
+    <AssemblyName>KutuphaneOtomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="npgsql, Version=2.0.0.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsBagisListesi.cs" />
+    <Compile Include="clsBagisYapan.cs" />
+    <Compile Include="clsCezaliSec.cs" />
+    <Compile Include="clsEmanetTeslimHatirlatma.cs" />
+    <Compile Include="clsKitapAlmaIslem.cs" />
+    <Compile Include="clsKitapIstatistik.cs" />
+    <Compile Include="clsKitapListesi.cs" />
+    <Compile Include="clsKitapVermeIslem.cs" />
+    <Compile Include="clsKitapIslem.cs" />
+    <Compile Include="clsKitapSec.cs" />
+    <Compile Include="clsKutuphaneIslem.cs" />
+    <Compile Include="clsKutuphaneIstatistik.cs" />
+    <Compile Include="clsKutuphaneListesi.cs" />
+    <Compile Include="clsParametreDil.cs" />
+    <Compile Include="clsParametreGorev.cs" />
+    <Compile Include="clsParametreKitapTur.cs" />
+    <Compile Include="clsParametreKitapYeri.cs" />
+    <Compile Include="clsParametreMeslek.cs" />
+    <Compile Include="clsParametreOgrenimDurum.cs" />
+    <Compile Include="clsParametreYeniYil.cs" />
+    <Compile Include="clsPersonelIslem.cs" />
+    <Compile Include="clsPersonelListesi.cs" />
+    <Compile Include="clsStatik.cs" />
+    <Compile Include="clsUyeIslem.cs" />
+    <Compile Include="clsUyeIstatistik.cs" />
+    <Compile Include="clsUyeListesi.cs" />
+    <Compile Include="clsUyeSec.cs" />
+    <Compile Include="clsYayineviIslem.cs" />
+    <Compile Include="clsYayineviListesi.cs" />
+    <Compile Include="clsYazarListesi.cs" />
+    <Compile Include="clsYazarIslem.cs" />
+    <Compile Include="frmBagisListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBagisListesi.Designer.cs">
+      <DependentUpon>frmBagisListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKitapListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKitapListesi.Designer.cs">
+      <DependentUpon>frmKitapListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKutuphaneListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKutuphaneListesi.Designer.cs">
+      <DependentUpon>frmKutuphaneListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParametreDil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParametreDil.Designer.cs">
+      <DependentUpon>frmParametreDil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParametreGorev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParametreGorev.Designer.cs">
+      <DependentUpon>frmParametreGorev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParametreKitapTur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParametreKitapTur.Designer.cs">
+      <DependentUpon>frmParametreKitapTur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccesLayer.cs" />
+    <Compile Include="frmAnasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnasayfa.Designer.cs">
+      <DependentUpon>frmAnasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBagisYapan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBagisYapan.Designer.cs">
+      <DependentUpon>frmBagisYapan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCezaliSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCezaliSec.Designer.cs">
+      <DependentUpon>frmCezaliSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiris.Designer.cs">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHakkimizda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHakkimizda.Designer.cs">
+      <DependentUpon>frmHakkimizda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKitapAlmaIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKitapAlmaIslem.Designer.cs">
+      <DependentUpon>frmKitapAlmaIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKitapIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKitapIslem.Designer.cs">
+      <DependentUpon>frmKitapIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKitapIstatistigi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKitapIstatistigi.Designer.cs">
+      <DependentUpon>frmKitapIstatistigi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKitapSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKitapSec.Designer.cs">
+      <DependentUpon>frmKitapSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKitapVermeIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKitapVermeIslem.Designer.cs">
+      <DependentUpon>frmKitapVermeIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKullaniciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKullaniciEkle.Designer.cs">
+      <DependentUpon>frmKullaniciEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKutuphaneIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKutuphaneIslem.Designer.cs">
+      <DependentUpon>frmKutuphaneIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKutuphaneIstatistik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKutuphaneIstatistik.Designer.cs">
+      <DependentUpon>frmKutuphaneIstatistik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParametreKitapYeri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParametreKitapYeri.Designer.cs">
+      <DependentUpon>frmParametreKitapYeri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParametreMeslek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParametreMeslek.Designer.cs">
+      <DependentUpon>frmParametreMeslek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParametreOgrenimDurum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParametreOgrenimDurum.Designer.cs">
+      <DependentUpon>frmParametreOgrenimDurum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParametreYeniYil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParametreYeniYil.Designer.cs">
+      <DependentUpon>frmParametreYeniYil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelIslem.Designer.cs">
+      <DependentUpon>frmPersonelIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmanetTeslimHatirlatma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmanetTeslimHatirlatma.Designer.cs">
+      <DependentUpon>frmEmanetTeslimHatirlatma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonelListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonelListesi.Designer.cs">
+      <DependentUpon>frmPersonelListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUyeIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUyeIslem.Designer.cs">
+      <DependentUpon>frmUyeIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUyeIstatistik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUyeIstatistik.Designer.cs">
+      <DependentUpon>frmUyeIstatistik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUyeListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUyeListesi.Designer.cs">
+      <DependentUpon>frmUyeListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUyeSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUyeSec.Designer.cs">
+      <DependentUpon>frmUyeSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYayineviIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYayineviIslem.Designer.cs">
+      <DependentUpon>frmYayineviIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYayineviListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYayineviListesi.Designer.cs">
+      <DependentUpon>frmYayineviListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYazarIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYazarIslem.Designer.cs">
+      <DependentUpon>frmYazarIslem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmYazarListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmYazarListesi.Designer.cs">
+      <DependentUpon>frmYazarListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmBagisListesi.resx">
+      <DependentUpon>frmBagisListesi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKitapListesi.resx">
+      <DependentUpon>frmKitapListesi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKutuphaneListesi.resx">
+      <DependentUpon>frmKutuphaneListesi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParametreDil.resx">
+      <DependentUpon>frmParametreDil.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParametreGorev.resx">
+      <DependentUpon>frmParametreGorev.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParametreKitapTur.resx">
+      <DependentUpon>frmParametreKitapTur.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnasayfa.resx">
+      <DependentUpon>frmAnasayfa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBagisYapan.resx">
+      <DependentUpon>frmBagisYapan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCezaliSec.resx">
+      <DependentUpon>frmCezaliSec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiris.resx">
+      <DependentUpon>frmGiris.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHakkimizda.resx">
+      <DependentUpon>frmHakkimizda.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKitapAlmaIslem.resx">
+      <DependentUpon>frmKitapAlmaIslem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKitapIslem.resx">
+      <DependentUpon>frmKitapIslem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKitapIstatistigi.resx">
+      <DependentUpon>frmKitapIstatistigi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKitapSec.resx">
+      <DependentUpon>frmKitapSec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKitapVermeIslem.resx">
+      <DependentUpon>frmKitapVermeIslem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKullaniciEkle.resx">
+      <DependentUpon>frmKullaniciEkle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKutuphaneIslem.resx">
+      <DependentUpon>frmKutuphaneIslem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKutuphaneIstatistik.resx">
+      <DependentUpon>frmKutuphaneIstatistik.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParametreKitapYeri.resx">
+      <DependentUpon>frmParametreKitapYeri.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParametreMeslek.resx">
+      <DependentUpon>frmParametreMeslek.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParametreOgrenimDurum.resx">
+      <DependentUpon>frmParametreOgrenimDurum.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParametreYeniYil.resx">
+      <DependentUpon>frmParametreYeniYil.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelIslem.resx">
+      <DependentUpon>frmPersonelIslem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmanetTeslimHatirlatma.resx">
+      <DependentUpon>frmEmanetTeslimHatirlatma.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonelListesi.resx">
+      <DependentUpon>frmPersonelListesi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUyeIslem.resx">
+      <DependentUpon>frmUyeIslem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUyeIstatistik.resx">
+      <DependentUpon>frmUyeIstatistik.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUyeListesi.resx">
+      <DependentUpon>frmUyeListesi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUyeSec.resx">
+      <DependentUpon>frmUyeSec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYayineviIslem.resx">
+      <DependentUpon>frmYayineviIslem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYayineviListesi.resx">
+      <DependentUpon>frmYayineviListesi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYazarIslem.resx">
+      <DependentUpon>frmYazarIslem.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmYazarListesi.resx">
+      <DependentUpon>frmYazarListesi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eski-kitap_69914.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kitap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3-gray-home-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personel.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Old-House-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock vector  Hand writing in style of an ancient engraving.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yeni Resim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yeni Resim %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-user-group-new-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-user-group-new-icon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+    <None Include="Resources\dpu_logo_1.png" />
+    <None Include="Resources\email.png" />
+    <Content Include="Resources\Yeni Resim%286%29 .png" />
+    <Content Include="Resources\library %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-new-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-document-save-as-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\softwareUpdate-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-clear-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yeni Resim %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adsız.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button-Refresh-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
